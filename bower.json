@@ -1,0 +1,20 @@
+{
+  "name": "turf",
+  "version": "1.4.0",
+  "description": "Potree is a WebGL based viewer for large point clouds",
+  "main": [
+    "turf.min.js"
+  ],
+  "keywords": [
+    "gis",
+    "geospatial",
+    "javascript"
+  ],
+  "ignore": [
+    "npm-debug.log"
+  ],
+  "authors": [
+    "Turpin <eric.turpin@delair-tech.com>"
+  ],
+  "license": "MIT"
+}
