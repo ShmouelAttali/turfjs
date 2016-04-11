@@ -1,7 +1,6 @@
 {
-  "name": "turf",
+  "name": "turfjs",
   "version": "1.4.0",
-  "description": "Potree is a WebGL based viewer for large point clouds",
   "main": [
     "turf.min.js"
   ],
